@@ -1,6 +1,0 @@
-GROUP,PACKAGE,CLASS,INSTRUCTION_MISSED,INSTRUCTION_COVERED,BRANCH_MISSED,BRANCH_COVERED,LINE_MISSED,LINE_COVERED,COMPLEXITY_MISSED,COMPLEXITY_COVERED,METHOD_MISSED,METHOD_COVERED
-Ticketmanager,org.example,SmartPhone,0,12,0,0,0,4,0,2,0,2
-Ticketmanager,org.example,Product,0,21,0,0,0,8,0,4,0,4
-Ticketmanager,org.example,ProductManger,0,73,0,6,0,15,0,7,0,4
-Ticketmanager,org.example,ProductRepository,0,84,0,6,0,18,0,7,0,4
-Ticketmanager,org.example,Book,0,12,0,0,0,4,0,2,0,2
